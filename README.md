@@ -4,7 +4,8 @@
 
 <div align="center">
   <h2 align="center"> 💡 Sobre o Projeto </h2>
-   Aplicação para listar tarefas<br>
+   Aplicação para listar tarefas <br>
+  <h6 align="center">[Veja o  Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)</h6>
 </div>
 
 ## 🚀 Tecnologias utilizadas
