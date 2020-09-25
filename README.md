@@ -5,6 +5,8 @@
 <div align="center">
   <h2 align="center"> 💡 Sobre o Projeto </h2>
    Aplicação para listar tarefas <br>
+
+   Acesse a aplicação [aqui](https://thirsty-mirzakhani-5b8635.netlify.app/)
 </div>
 
 ## 🚀 Tecnologias utilizadas
