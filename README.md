@@ -3,9 +3,10 @@
 </p>
 
 <div align="center">
-  <h1 align="center"> 💡 Aplicação para listar tarefas (Todo List) </h1>
+  <h1 align="center"> Aplicação para listar tarefas (Todo List) </h1>
 
-   Acesse a aplicação [aqui](https://thirsty-mirzakhani-5b8635.netlify.app/)
+    Acesse a aplicação [aqui](https://thirsty-mirzakhani-5b8635.netlify.app/)
+
 </div>
 
 ## 🚀 Tecnologias utilizadas
