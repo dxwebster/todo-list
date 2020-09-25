@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme/screen.gif"/>
+  <img src="readme/screen2.gif"/>
 </p>
 
 <div align="center">
