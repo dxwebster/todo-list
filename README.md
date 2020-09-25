@@ -6,6 +6,8 @@
   <h1 align="center"> Aplicação para listar tarefas (Todo List) </h1>
 
   Acesse a aplicação [aqui](https://thirsty-mirzakhani-5b8635.netlify.app/)
+  
+
 
 </div>
 
@@ -13,6 +15,7 @@
 
 - ReactJS
 - Styled Components
+- [Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)
 
 
 ## 📥 Executar esse projeto no seu computador
