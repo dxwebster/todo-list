@@ -15,8 +15,7 @@
 
 - ReactJS
 - Styled Components
-- [Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)
-
+- Java Script
 
 ## 📥 Executar esse projeto no seu computador
 
@@ -25,9 +24,7 @@
 - Rodar Aplicação: `yarn start`
 
 ## 🛠 Como criar esse projeto do zero
-- Parte 1
-- Parte 2
-- Parte 3
+- [Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)
 
 
 ## 📕 Licença
