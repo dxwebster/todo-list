@@ -28,8 +28,9 @@
 
 1. [Instalação do Template React](https://github.com/dxwebster/Todo-List/wiki/1.-Instala%C3%A7%C3%A3o-do-Template-React)
 2. [Conceitos do React](https://github.com/dxwebster/Todo-List/wiki/2.-Conceitos-do-React)
-
-
+3. [Enviando uma Nova Tarefa](https://github.com/dxwebster/Todo-List/wiki/3.-Enviando-uma-Nova-Tarefa)
+4. [Exibindo uma Nova Tarefa](https://github.com/dxwebster/Todo-List/wiki/4.-Exibindo-uma-Nova-Tarefa)
+5. [Listando Todas as Tarefas](https://github.com/dxwebster/Todo-List/wiki/5.-Listando-Todas-as-Tarefas)
 
 ## 📕 Licença
 
