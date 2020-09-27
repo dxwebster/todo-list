@@ -26,15 +26,8 @@
 ## 🛠 Como criar esse projeto do zero
 - [Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)
 
-1. [Instalação e Configuração das Bibliotecas](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/1.-Instalação-e-Configuração-das-Bibliotecas)
-2. [Configurações do Template](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/2.-Configurações-do-Template)
-3. [Estilos Globais](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/3.-Estilos-Globais)
-4. [Components](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/4.-Components)
-5. [Página: Landing](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/5.-Página:-Landing)
-6. [Página: Teacher List](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/6.-Página:-Teacher-List)
-7. [Página: Teacher Form](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/7.-Página:-Teacher-Form)
-8. [Rotas](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/8.-Rotas)
-9. [Conexão com API](https://github.com/dxwebster/NLW2-Proffy-Frontend/wiki/9.-Conexão-com-API)
+1. [Instalação do Template React](https://github.com/dxwebster/Todo-List/wiki/1.-Instala%C3%A7%C3%A3o-do-Template-React)
+2. [Conceitos do React](https://github.com/dxwebster/Todo-List/wiki/2.-Conceitos-do-React)
 
 
 
