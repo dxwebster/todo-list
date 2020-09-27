@@ -25,7 +25,7 @@
 
 ## 🛠 Como criar esse projeto do zero
 
-1. [Instalação do Template React](https://github.com/dxwebster/Todo-List/wiki/1.-Instala%C3%A7%C3%A3o-do-Template-React)
+1. [Instalação do Template](https://github.com/dxwebster/Todo-List/wiki/1.-Instala%C3%A7%C3%A3o-do-Template)
 2. [Conceitos do React](https://github.com/dxwebster/Todo-List/wiki/2.-Conceitos-do-React)
 3. [Styled Components](https://github.com/dxwebster/Todo-List/wiki/3.-Styledd-Components)
 4. [Enviando uma Nova Tarefa](https://github.com/dxwebster/Todo-List/wiki/4.-Enviando-uma-Nova-Tarefa)
