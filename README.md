@@ -24,7 +24,6 @@
 - Rodar Aplicação: `yarn start`
 
 ## 🛠 Como criar esse projeto do zero
-- [Tutorial base](https://www.youtube.com/watch?v=ZcD5rJKm3Lk)
 
 1. [Instalação do Template React](https://github.com/dxwebster/Todo-List/wiki/1.-Instala%C3%A7%C3%A3o-do-Template-React)
 2. [Conceitos do React](https://github.com/dxwebster/Todo-List/wiki/2.-Conceitos-do-React)
